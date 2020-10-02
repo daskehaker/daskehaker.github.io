@@ -366,6 +366,7 @@ var MusculeGroup;
     MusculeGroup[MusculeGroup["Triceps"] = 4] = "Triceps";
     MusculeGroup[MusculeGroup["Abs"] = 5] = "Abs";
     MusculeGroup[MusculeGroup["Cardio"] = 6] = "Cardio";
+    MusculeGroup[MusculeGroup["Soulders"] = 7] = "Soulders";
 })(MusculeGroup || (MusculeGroup = {}));
 (function (MusculeGroup) {
     function values() {
